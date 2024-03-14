@@ -1,6 +1,6 @@
 # Talking Dictionary
 
-An application that provides definitions for words with functionality of text-to-speech using Python.
+An application that provides definitions for words with the functionality of text-to-speech using Python.
 
 ## INFO
 
